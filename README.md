@@ -1,4 +1,4 @@
-# Learning-mixtures-of-smooth-product-distributions
+# Learning Mixtures of Smooth Product Distributions: Identifiability and Algorithm
 
 This is the implementation of the following paper \
 [Learning Mixtures of Smooth Product Distributions: Identifiability and Algorithm](https://arxiv.org/abs/1904.01156) \
